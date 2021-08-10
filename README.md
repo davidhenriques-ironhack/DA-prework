@@ -4,7 +4,7 @@ This repository contains the labs for the Ironhack Data Analytics Bootcamp Prewo
 
 **If you are an enrolled student in our upcoming bootcamp**, you can receive support from our instructional staff while you are working on these lab. Your Program Manager will send you information about how to reach out to our instructional support team.
 
-**If you are not an enrolled student but find our repository in GitHub**, feel free to use this lab for personal, non-commcercial purposes. The codes are provided AS IS without support.
+**If you are not an enrolled student but find our repository in GitHub**, feel free to use this lab for personal, non-commcercial purposes. The code is provided AS IS without support.
 
 ## Getting Started
 
