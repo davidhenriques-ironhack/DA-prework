@@ -18,6 +18,8 @@ In the repository, you will find a bunch of directories. Each directory is a lab
 
 If you are an enrolled student, **you are required to submit your solutions before your cohort starts**. Your Program Manager will send you information on how to submit your work.
 
+Notice that most of these labs have some questions marked as **Bonus**. While it would be great if you could complete all these questions, **prioritize finishing the non-optional content** before the cohort stats and revisit these bonus question only after you are done.
+
 ## Suggested Order Based on Difficulty
 
 1. [Snail and well](./snail-and-well)
